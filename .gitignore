@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+
+# Build directories
+/build/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+*.ninja
+*.ninja_d
